@@ -22,7 +22,7 @@
 # search if the word "learning" exist or not
 def check_word():
     word = "learning"
-    with open(r"C:\Users\rishi\Desktop\Python Lectures\Lecture 7\practice.txt", "r") as f:
+    with open(r"C:\Users\rishi\Desktop\Python Lectures\Lecture 7\q3-practice.txt", "r") as f:
         data = f.read()
         if(data.find(word) != -1):
             print("Found")

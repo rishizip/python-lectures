@@ -16,7 +16,7 @@
 # f.close()
 
 # ii) to read a line
-# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "r")
+# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/2-demo.txt", "r")
 # line1 = f.readline()
 # print(line1)
 # line2 = f.readline()
@@ -27,17 +27,17 @@
 # 2. write to a file 
 # if we want to write a file which doesn't exist python creates that file for us to write
 # i) overwrite a file
-# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "w")
+# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/2-demo.txt", "w")
 # f.write("I want learn Javascript tomorrow. After completing python")
 # f.close()
 
 # ii) append or update a file
-# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "a")
+# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/2-demo.txt", "a")
 # f.write("\nThen I will move to ReactJS")
 # f.close()
 
 # with syntax 
-with open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "r") as f:
+with open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/2-demo.txt", "r") as f:
     data = f.read()
     print(data)
     print(type(data))
