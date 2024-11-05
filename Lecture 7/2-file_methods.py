@@ -32,6 +32,13 @@
 # f.close()
 
 # ii) append or update a file
-f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "a")
-f.write("\nThen I will move to ReactJS")
-f.close()
+# f = open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "a")
+# f.write("\nThen I will move to ReactJS")
+# f.close()
+
+# with syntax 
+with open("C:/Users/rishi/Desktop/Python Lectures/Lecture 7/demo.txt", "r") as f:
+    data = f.read()
+    print(data)
+    print(type(data))
+# with auto close file
