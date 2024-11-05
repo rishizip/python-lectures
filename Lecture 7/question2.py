@@ -2,7 +2,7 @@
 # print-1 if word not found
 
 def check_for_line():
-    word = "whatevers"
+    word = "learning"
     data = True
     line_no = 1
 
