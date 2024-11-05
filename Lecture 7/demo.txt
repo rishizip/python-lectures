@@ -1,0 +1,2 @@
+I want learn Javascript tomorrow. After completing python
+Then I will move to ReactJS
