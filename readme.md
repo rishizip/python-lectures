@@ -20,33 +20,17 @@ This collection includes a series of lectures introducing Python programming ess
 
 ## 📚 Contents Outline
 
-| No. | Lecture Title                      |
-|-----|------------------------------------|
-| 1   | Basic Concepts                     |
-| 2   | Strings and Conditionals           |
-| 3   | Lists and Tuples                   |
-| 4   | Dictionaries and Sets              |
-| 5   | Loops                              |
-| 6   | Functions and Recursion            |
-| 7   | File Input/Output (I/O)            |
-| 8   | Object-Oriented Programming Part 1 |
-| 9   | Coming Soon                        |
-
----
-
-### Lecture Breakdown
-
-| Lecture   | Topics                                    | Practice Questions |
-|-----------|------------------------------------------|--------------------|
-| **Lecture 1** | Variables, Data Types, Type Conversion, Input/Output, Operators | 3 |
-| **Lecture 2** | Strings, String Methods, String Functions, Conditional Statements (if, elif, else) | 8 |
-| **Lecture 3** | Lists, List Methods, Tuples, Tuple Methods | 3 |
-| **Lecture 4** | Dictionaries, Dictionary Methods, Sets, Set Methods | 4 |
-| **Lecture 5** | Loops (while, for), Loop Methods, Range | 12 |
-| **Lecture 6** | Functions, Recursion | 7 |
-| **Lecture 7** | File I/O, File Methods | 3 |
-| **Lecture 8** | Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods | 2 |
-| **Lecture 9** | Coming Soon | - |
+  | S.L. No | Lecture   | Topics                                    | Practice Questions |
+|-----|-----------|------------------------------------------|--------------------|
+| 1 |  **Basic Concepts**  | Variables, Data Types, Type Conversion, Input/Output, Operators | 3 |
+| 2 | **Strings and Conditionals** | Strings, String Methods, String Functions, Conditional Statements (if, elif, else) | 8 |
+| 3 | **Lists and Tuples**  | Lists, List Methods, Tuples, Tuple Methods | 3 |
+| 4 | **Dictionaries and Sets**  | Dictionaries, Dictionary Methods, Sets, Set Methods | 4 |
+| 5 | **Loops** | Loops (while, for), Loop Methods, Range | 12 |
+| 6 | **Functions and Recursion**  | Functions, Recursion | 7 |
+| 7 | **File Input & Output** | File I/O, File Methods | 3 |
+| 8 | **Object Oriented Programming P1**  | File Input/Output (I/O)| Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods | 2 |
+| 9 | **Lecture 9** | Coming Soon | - |
 
 ---
 
