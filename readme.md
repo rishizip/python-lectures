@@ -1,6 +1,6 @@
-# 📑 NOTICE BOARD
+# 📌 NOTICE BOARD
 
-## Lecture Resources
+## 🗃️ Lecture Resources
 
 |📂 Resource  |🔗 Link |
 |------------|------|
@@ -10,7 +10,7 @@
 
 ---
 
-## Python Lectures
+## 🐍 Python Lectures
 
 This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning.
 
@@ -18,7 +18,7 @@ This repository contains a series of lectures designed to introduce fundamental 
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
 | No. | Lecture Title                          |
 |-----|----------------------------------------|
@@ -149,13 +149,13 @@ This repository contains a series of lectures designed to introduce fundamental 
 
 ---
 
-## Code Preview
+## 👀 Code Preview
 
 ![Image Alt](https://github.com/rishizip/python-lectures/blob/b69cf6aaa1189615b2723ed16a26a97285ec9891/Untitled%20design.png)
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This repository is an adaptation of lecture materials from the [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) YouTube Channel. All rights to the original content belong to Apna College. This project was created for educational purposes to help students follow along with Apna College's Python programming lectures in a VS Code environment. 
 No ownership or affiliation with Apna College is claimed. 
