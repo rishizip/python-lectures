@@ -8,7 +8,7 @@
 
 class Student:
 
-# i) defult constructors -> only only self
+# i) defult constructors -> contain only self
     def __init__(self):
         pass
 
@@ -17,7 +17,7 @@ class Student:
        self.name = name
        self.marks = marks
        print("adding new student in databse....") 
-       # constructor will call for all objects each time
+       # constructor will call for objects each time
 
 
 s1 = Student("Karan", 97)
