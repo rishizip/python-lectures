@@ -29,7 +29,7 @@ This collection includes a series of lectures introducing Python programming ess
 | 5 | **Loops** | Loops (while, for), Loop Methods, Range | 12 |
 | 6 | **Functions and Recursion**  | Functions, Recursion | 7 |
 | 7 | **File Input & Output** | File I/O, File Methods | 3 |
-| 8 | **Object Oriented Programming P1**  | File Input/Output (I/O)| Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods | 2 |
+| 8 | **Object Oriented Programming P1**  | Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods | 2 |
 | 9 | **Lecture 9** | Coming Soon | - |
 
 ---
