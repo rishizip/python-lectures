@@ -42,4 +42,4 @@ This collection includes a series of lectures introducing Python programming ess
 
 ## ⚠️ Disclaimer
 
-This repository adapts lecture content from the [Apna College YouTube Channel](https://www.youtube.com/@ApnaCollegeOfficial). Original content rights belong to Apna College. This project was created solely for educational purposes to assist students in learning Python programming using VS Code, based on Apna College's resources. There is no claimed affiliation with or endorsement by Apna College.
+This repository adapts lecture content from the Apna College Youtube Channel. Original content rights belong to Apna College. This project was created solely for educational purposes to assist students in learning Python programming using VS Code, based on Apna College's resources. There is no claimed affiliation with or endorsement by Apna College.
