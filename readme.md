@@ -12,7 +12,7 @@
 
 ## 🐍 Python Lectures
 
-This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning. Fpr building python enviroment in your pc checkout Python official [documentation](https://docs.python.org/3/) and this vs code [page](https://code.visualstudio.com/docs/python/python-tutorial)
+This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning. For building a Python environment on your PC, check out the [official Python documentation](https://docs.python.org/3/) and this [VS Code tutorial](https://code.visualstudio.com/docs/python/python-tutorial).
 
 ![Image Alt](https://github.com/rishizip/python-lectures/blob/16def3fe01c5fc62ad2f2c2c6336c628534dbd60/PYTHON%202.0.png)
 
@@ -29,7 +29,8 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Lecture 5: Loops                       |
 | 6   | Lecture 6: Functions and Recursion     |
 | 7   | Lecture 7: File I/O                    |
-
+| 8   | Lecture 8: Coming Soon                 |
+| 9   | Lecture 9: Coming Soon                 |
 
 ---
 
@@ -144,6 +145,24 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 3   | Practice Questions (3) |
 
 </td>
+    <td>
+
+#### Lecture 8: Coming Soon
+
+| No. | Topic           |
+|-----|-----------------|
+| 1   | Coming Soon     |
+
+</td>
+    <td>
+
+#### Lecture 9: Coming Soon
+
+| No. | Topic           |
+|-----|-----------------|
+| 1   | Coming Soon     |
+
+</td>
   </tr>
 </table>
 
@@ -161,4 +180,3 @@ This repository is an adaptation of lecture materials from the [Apna College](ht
 No ownership or affiliation with Apna College is claimed. 
 
 This adaptation is shared for fair use to facilitate learning and is not intended for commercial distribution.
-
