@@ -20,13 +20,16 @@ This repository contains a series of lectures designed to introduce fundamental 
 
 ## Table of Contents
 
-1. [Lecture 1: Basic Concepts](#lecture-1-basic-concepts)
-2. [Lecture 2: Strings and Conditionals](#lecture-2-strings-and-conditionals)
-3. [Lecture 3: Lists and Tuples](#lecture-3-lists-and-tuples)
-4. [Lecture 4: Dictionaries and Sets](#lecture-4-dictionaries-and-sets)
-5. [Lecture 5: Loops](#lecture-5-loops)
-6. [Lecture 6: Functions and Recursion](#lecture-6-functions-and-recursion)
-7. [Lecture 7: File I/O](#lecture-7-file-io)
+| No. | Lecture Title                          |
+|-----|----------------------------------------|
+| 1   | Lecture 1: Basic Concepts              |
+| 2   | Lecture 2: Strings and Conditionals    |
+| 3   | Lecture 3: Lists and Tuples            |
+| 4   | Lecture 4: Dictionaries and Sets       |
+| 5   | Lecture 5: Loops                       |
+| 6   | Lecture 6: Functions and Recursion     |
+| 7   | Lecture 7: File I/O                    |
+
 
 ---
 
