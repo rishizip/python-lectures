@@ -1,4 +1,4 @@
-# 🔍 Lecture Overview
+# 📖 READ ME
 
 ## 🗃️ Resources
 
