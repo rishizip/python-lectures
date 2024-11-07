@@ -1,3 +1,5 @@
+# ABOUT THIS LECTURE
+
 ## 🗃️ Lecture Resources
 
 |📂 Resource  | 🔗 Link |
