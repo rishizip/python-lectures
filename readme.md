@@ -63,14 +63,8 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Practice Questions (8)    |
 
 </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
     <td>
+
 
 #### Lecture 3: Lists and Tuples
 
@@ -83,6 +77,13 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Practice Questions (3) |
 
 </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
     <td>
 
 #### Lecture 4: Dictionaries and Sets
@@ -96,13 +97,6 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Practice Questions (4) |
 
 </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
     <td>
 
 #### Lecture 5: Loops
@@ -158,15 +152,7 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Methods     |
 | 6   | Practice Question (2)     |
 
-
 </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
     <td>
 
 ### Lecture 9: Coming Soon
@@ -174,10 +160,10 @@ This repository contains a series of lectures designed to introduce fundamental 
 |-----|-----------------|
 | 1   | Coming Soon     |
 
-</td>
-  </tr>
-</table>
 
+<table>
+  <tr>
+    <td>
 ---
 
 ## 👀 Code Preview
