@@ -20,7 +20,7 @@ This collection includes a series of lectures introducing Python programming ess
 
 ## 📚 Contents Outline
 
-  | S.L. No | Lecture   | Topics                                    | Practice Questions |
+  | S.L. No | Lectures   | Topics                                    | Practice Questions |
 |-----|-----------|------------------------------------------|--------------------|
 | 1 |  **Basic Concepts**  | Variables, Data Types, Type Conversion, Input/Output, Operators | 3 |
 | 2 | **Strings and Conditionals** | Strings, String Methods, String Functions, Conditional Statements (if, elif, else) | 8 |
