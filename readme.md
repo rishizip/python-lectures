@@ -12,7 +12,7 @@
 
 ## 🐍 Python Lectures
 
-This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning.
+This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning. Fpr building python enviroment in your pc checkout Python official [documentation](https://docs.python.org/3/)
 
 ![Image Alt](https://github.com/rishizip/python-lectures/blob/16def3fe01c5fc62ad2f2c2c6336c628534dbd60/PYTHON%202.0.png)
 
