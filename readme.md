@@ -115,8 +115,7 @@ No ownership or affiliation with Apna College is claimed.
 <br>
 <br>
 This adaptation is shared for fair use to facilitate learning and is not intended for commercial distribution.
-
-## MIT License (with Attribution)
+MIT License (with Attribution)
 
 ## Copyright (c) 2024 rishizip
 
