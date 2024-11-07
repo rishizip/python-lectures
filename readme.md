@@ -5,12 +5,16 @@ notes -> https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvo
 <br>
 lectures -> https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=Q4f6_RguRBNUCHn-
 
+
 # Python Lectures
+This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning.
+
 ![Image Alt](https://github.com/rishizip/python-lectures/blob/16def3fe01c5fc62ad2f2c2c6336c628534dbd60/PYTHON%202.0.png)
 
-# Python Lectures
 
-This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning.
+---
+
+# Python Lectures Overview
 
 
 # Table of Contents
@@ -23,9 +27,14 @@ This repository contains a series of lectures designed to introduce fundamental 
 6. [Lecture 6: Functions and Recursion](#lecture-6-functions-and-recursion)
 7. [Lecture 7: File I/O](#lecture-7-file-io)
 
----
 
-### Lecture 1: Basic Concepts
+
+
+<table>
+  <tr>
+    <td>
+
+#### Lecture 1: Basic Concepts
 
 | No. | Topic             |
 |-----|-------------------|
@@ -36,9 +45,10 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Operators         |
 | 6   | Practice Questions (3) |
 
----
+</td>
+    <td>
 
-### Lecture 2: Strings and Conditionals
+#### Lecture 2: Strings and Conditionals
 
 | No. | Topic                     |
 |-----|---------------------------|
@@ -48,9 +58,17 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 4   | Conditional Statements (if, elif, else) |
 | 5   | Practice Questions (8)    |
 
----
+</td>
+  </tr>
+</table>
 
-### Lecture 3: Lists and Tuples
+
+
+<table>
+  <tr>
+    <td>
+
+#### Lecture 3: Lists and Tuples
 
 | No. | Topic           |
 |-----|-----------------|
@@ -60,9 +78,10 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 4   | Tuple Methods   |
 | 5   | Practice Questions (3) |
 
----
+</td>
+    <td>
 
-### Lecture 4: Dictionaries and Sets
+#### Lecture 4: Dictionaries and Sets
 
 | No. | Topic           |
 |-----|-----------------|
@@ -72,9 +91,16 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 4   | Set Methods     |
 | 5   | Practice Questions (4) |
 
----
+</td>
+  </tr>
+</table>
 
-### Lecture 5: Loops
+
+<table>
+  <tr>
+    <td>
+
+#### Lecture 5: Loops
 
 | No. | Topic                 |
 |-----|-----------------------|
@@ -84,9 +110,10 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 4   | Range                 |
 | 5   | Practice Questions (12) |
 
----
+</td>
+    <td>
 
-### Lecture 6: Functions and Recursion
+#### Lecture 6: Functions and Recursion
 
 | No. | Topic           |
 |-----|-----------------|
@@ -94,15 +121,29 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 2   | Recursion       |
 | 3   | Practice Questions (7) |
 
----
+</td>
+  </tr>
+</table>
 
-### Lecture 7: File I/O
+
+
+<table>
+  <tr>
+    <td>
+
+#### Lecture 7: File I/O
 
 | No. | Topic           |
 |-----|-----------------|
 | 1   | File I/O        |
 | 2   | File Methods    |
 | 3   | Practice Questions (3) |
+
+</td>
+  </tr>
+</table>
+
+---
 
 
 # Code Preview
