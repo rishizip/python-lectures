@@ -29,7 +29,7 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Lecture 5: Loops                       |
 | 6   | Lecture 6: Functions and Recursion     |
 | 7   | Lecture 7: File I/O                    |
-| 8   | Lecture 8: Object Oriented P1          |
+| 8   | Lecture 8: Object Oriented Programming P1          |
 | 9   | Lecture 9: Coming Soon                 |
 
 ---
@@ -147,7 +147,7 @@ This repository contains a series of lectures designed to introduce fundamental 
 </td>
     <td>
 
-#### Lecture 8: Coming Soon
+#### Lecture 8: Object Oriented Programing P1
 
 | No. | Topic           |
 |-----|-----------------|
@@ -168,8 +168,8 @@ This repository contains a series of lectures designed to introduce fundamental 
 <table>
   <tr>
     <td>
-#### Lecture 9: Coming Soon
 
+### Lecture 9: Coming Soon
 | No. | Topic           |
 |-----|-----------------|
 | 1   | Coming Soon     |
