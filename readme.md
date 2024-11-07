@@ -1,20 +1,22 @@
 # 📑 NOTICE BOARD
+
 ## Lecture Resources
 
-| Resource   | Link |
+|📂 Resource  |🔗 Link |
 |------------|------|
 | Apna College | [here](https://www.youtube.com/@ApnaCollegeOfficial) |
 | Notes      | [here](https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvov?usp=sharing) |
 | Lectures   | [here](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=Q4f6_RguRBNUCHn-) |
 
-
+---
 
 ## Python Lectures
+
 This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning.
 
 ![Image Alt](https://github.com/rishizip/python-lectures/blob/16def3fe01c5fc62ad2f2c2c6336c628534dbd60/PYTHON%202.0.png)
 
-
+---
 
 ## Table of Contents
 
@@ -26,8 +28,7 @@ This repository contains a series of lectures designed to introduce fundamental 
 6. [Lecture 6: Functions and Recursion](#lecture-6-functions-and-recursion)
 7. [Lecture 7: File I/O](#lecture-7-file-io)
 
-
-
+---
 
 <table>
   <tr>
@@ -61,7 +62,7 @@ This repository contains a series of lectures designed to introduce fundamental 
   </tr>
 </table>
 
-
+---
 
 <table>
   <tr>
@@ -94,6 +95,7 @@ This repository contains a series of lectures designed to introduce fundamental 
   </tr>
 </table>
 
+---
 
 <table>
   <tr>
@@ -124,7 +126,7 @@ This repository contains a series of lectures designed to introduce fundamental 
   </tr>
 </table>
 
-
+---
 
 <table>
   <tr>
@@ -144,14 +146,16 @@ This repository contains a series of lectures designed to introduce fundamental 
 
 ---
 
-
 ## Code Preview
+
 ![Image Alt](https://github.com/rishizip/python-lectures/blob/b69cf6aaa1189615b2723ed16a26a97285ec9891/Untitled%20design.png)
 
+---
 
 ## Disclaimer
-This repository is an adaptation of lecture materials from the [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) Youtube Channel. All rights to the original content belong to Apna College. This project was created for educational purposes to help students follow along with Apna College's Python programming lectures in a VS Code environment. 
+
+This repository is an adaptation of lecture materials from the [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) YouTube Channel. All rights to the original content belong to Apna College. This project was created for educational purposes to help students follow along with Apna College's Python programming lectures in a VS Code environment. 
 No ownership or affiliation with Apna College is claimed. 
-<br>
-<br>
+
 This adaptation is shared for fair use to facilitate learning and is not intended for commercial distribution.
+
