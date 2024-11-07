@@ -32,7 +32,7 @@ This collection includes a series of lectures introducing Python programming ess
 
 ---
 
-## 👀 Sample Code Preview
+## 👀 Code Preview
 
 ![Code Snippet Preview](https://github.com/rishizip/python-lectures/blob/b69cf6aaa1189615b2723ed16a26a97285ec9891/Untitled%20design.png)
 
