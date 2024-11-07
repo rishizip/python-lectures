@@ -116,9 +116,9 @@ No ownership or affiliation with Apna College is claimed.
 <br>
 This adaptation is shared for fair use to facilitate learning and is not intended for commercial distribution.
 
-MIT License (with Attribution)
+## MIT License (with Attribution)
 
-Copyright (c) 2024 rishizip
+## Copyright (c) 2024 rishizip
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
