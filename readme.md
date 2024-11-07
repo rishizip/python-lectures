@@ -2,7 +2,7 @@
 
 ## 🗃️ Lecture Resources
 
-|📂 Resource  |🔗 Link |
+| Resource  | Link |
 |------------|------|
 | Apna College | [here](https://www.youtube.com/@ApnaCollegeOfficial) |
 | Notes      | [here](https://drive.google.com/drive/folders/1LahwPSc6f9nkxBiRrz6LFUzkrg-Kzvov?usp=sharing) |
