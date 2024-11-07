@@ -10,7 +10,7 @@ class Student:
 
     def __init__(self, name, marks):
        self.name = name # instance atribute
-       self.marks = marks # # instance atribute
+       self.marks = marks # instance atribute
        print("adding new student in databse....") 
 
 s1 = Student("Karan", 97) # instance atribute
