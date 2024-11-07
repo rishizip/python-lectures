@@ -1,7 +1,5 @@
 # 📖 READ ME
 
-## 🗃️ Resources
-
 | 📂 Resource  | 🔗 Link |
 |--------------|---------|
 | Apna College YouTube Channel | [Visit here](https://www.youtube.com/@ApnaCollegeOfficial) |
