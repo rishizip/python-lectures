@@ -77,13 +77,6 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 5   | Practice Questions (3) |
 
 </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
     <td>
 
 #### Lecture 4: Dictionaries and Sets
@@ -121,13 +114,6 @@ This repository contains a series of lectures designed to introduce fundamental 
 | 3   | Practice Questions (7) |
 
 </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
     <td>
 
 #### Lecture 7: File I/O
@@ -160,11 +146,12 @@ This repository contains a series of lectures designed to introduce fundamental 
 |-----|-----------------|
 | 1   | Coming Soon     |
 
+---
 
 <table>
   <tr>
     <td>
----
+
 
 ## 👀 Code Preview
 
