@@ -12,7 +12,8 @@ lectures -> https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0
 
 This repository contains a series of lectures designed to introduce fundamental concepts in Python programming. Each lecture covers different topics, along with several practice questions to reinforce learning.
 
-## Table of Contents
+
+# Table of Contents
 
 1. [Lecture 1: Basic Concepts](#lecture-1-basic-concepts)
 2. [Lecture 2: Strings and Conditionals](#lecture-2-strings-and-conditionals)
