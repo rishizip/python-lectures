@@ -1,5 +1,3 @@
-# 📌 NOTICE BOARD
-
 ## 🗃️ Lecture Resources
 
 |📂 Resource  | 🔗 Link |
