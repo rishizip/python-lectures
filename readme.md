@@ -1,4 +1,4 @@
-# ABOUT THIS LECTURE
+#  🔍 ABOUT THIS LECTURE
 
 ## 🗃️ Lecture Resources
 
