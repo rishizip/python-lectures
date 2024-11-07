@@ -152,6 +152,8 @@ This repository contains a series of lectures designed to introduce fundamental 
   <tr>
     <td>
 
+---
+
 
 ## 👀 Code Preview
 
