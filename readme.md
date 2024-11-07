@@ -120,7 +120,7 @@ MIT License (with Attribution)
 ## Copyright (c) 2024 rishizip
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files, to deal
 in the Software with the following conditions:
 
 1. All rights to the original lecture content belong to Apna College.
