@@ -110,7 +110,7 @@ This repository contains a series of lectures designed to introduce fundamental 
 
 
 # Disclaimer
-This repository is an adaptation of lecture materials from the [Apna College YouTube channel](https://www.youtube.com/@ApnaCollegeOfficial). All rights to the original content belong to Apna College. This project was created for educational purposes to help students follow along with Apna College's Python programming lectures in a VS Code environment. 
+This repository is an adaptation of lecture materials from the [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) Youtube Channel. All rights to the original content belong to Apna College. This project was created for educational purposes to help students follow along with Apna College's Python programming lectures in a VS Code environment. 
 No ownership or affiliation with Apna College is claimed. 
 <br>
 <br>
