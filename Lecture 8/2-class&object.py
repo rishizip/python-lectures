@@ -14,6 +14,8 @@ class Car:
     color = "Black"
     brand = "Mercedes"
 
+# 2. objects
+# objects are instance of class
 car1 = Car()
 print(Car.color)
 print(Car.brand)
