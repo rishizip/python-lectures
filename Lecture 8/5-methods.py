@@ -11,6 +11,9 @@ class Student:
 
     def welcome(self): # method
         print("welcome dear", self.name)
+    def get_marks(self):
+        return self.marks
 
 s1 = Student("Karan", 97)
 s1.welcome() # calling method
+print(s1.get_marks())
