@@ -10,7 +10,7 @@
 
 # 2. private(like) attributes & methods
 # private attributes are meant to used only within class and aren't acessable outside the class
-# to define a private attribute we have to add __ before the attribute
+# to define a private attribute we have to add _ and for method we have to use __ before the attribute
 # syntax
 # _private = "variable"
 
@@ -19,8 +19,11 @@ class Person:
         self.name = name
         self.acc_no = acc_no
         self.__acc_pass = acc_pass
+       
+    def check(self):
+        return self.__acc_pass
     
 acc1 = Person("rishizip", 12345678, "abcdefgh")
 print(acc1.name)
 print(acc1.acc_no)
-print(acc1.acc_pass) # will throw a error
+print(acc1.check())
