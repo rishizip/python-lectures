@@ -16,7 +16,7 @@ This collection includes a series of lectures introducing Python programming ess
 
 ---
 
-## 📚 Contents Outline
+## 📚 Topics & Contents
 
   | S.L. No | Lectures   | Topics                                    | Practice Questions |
 |-----|-----------|------------------------------------------|--------------------|
