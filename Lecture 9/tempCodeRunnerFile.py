@@ -7,10 +7,10 @@ class Employee:
         self.dept = dept
         self.salary = salary
 
-    def showDetails(self):
-        print(f"Role: {self.role}")
-        print(f"Department: {self.dept}")
-        print(f"Salary: {self.salary}")
+def showDetails(self):
+    print(f"Role: {self.role}")
+    print(f"Department: {self.dept}")
+    print(f"Salary: {self.salary}")
 
 class Engineer(Employee):
     def __init__(self, name, age):
@@ -24,12 +24,10 @@ class Engineer(Employee):
         print(f"Age: {self.age}")
 
 
-def main():
-    name = input("Enter engineer's name : ")
-    age = int(input("Enter engineer's age : "))
-    engg1 = Engineer(name, age)
-    engg1.showDetails()
+    def main():
+        name = input("Enter engineer's name: ")
+        age = int(input("Enter engineer's age: "))
+        engg1 = Engineer(name, age)
+        engg1.showDetails()
 
-if __name__ == "__main__":
-    main()
-
+if __name__ == "__main__": main()
