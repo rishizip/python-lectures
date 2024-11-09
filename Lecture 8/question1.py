@@ -7,11 +7,16 @@ class Student:
         self.marks = marks
 
     def get_avg(self):
-        sum = 0
-        for val in self.marks:
-            sum += val
-            avg = sum/3
-        print("Hey", self.name, "your score is", avg)
+        total = sum(self.marks)
+        avg = total / 3
+        print("Hey", self.name, "your average score is", avg)
 
-s1 = Student("Tony Stark", [100, 100, 100])
+name = input("Enter the student's name: ")
+
+marks = []
+for i in range(3):
+    mark = int(input(f"Enter marks for subject {i + 1}: "))
+    marks.append(mark)
+
+s1 = Student(name, marks)
 s1.get_avg()
