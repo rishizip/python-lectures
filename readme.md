@@ -20,15 +20,16 @@ This collection includes a series of lectures introducing Python programming ess
 
   | S.L. No | Lectures   | Topics                                    | Practice Questions |
 |-----|-----------|------------------------------------------|--------------------|
-| 1 |  **Basic Concepts**  | Variables, Data Types, Type Conversion, Input/Output, Operators | 3 |
+| 1 | **Basic Concepts** | Variables, Data Types, Type Conversion, Input/Output, Operators | 3 |
 | 2 | **Strings and Conditionals** | Strings, String Methods, String Functions, Conditional Statements (if, elif, else) | 8 |
-| 3 | **Lists and Tuples**  | Lists, List Methods, Tuples, Tuple Methods | 3 |
-| 4 | **Dictionaries and Sets**  | Dictionaries, Dictionary Methods, Sets, Set Methods | 4 |
+| 3 | **Lists and Tuples** | Lists, List Methods, Tuples, Tuple Methods | 3 |
+| 4 | **Dictionaries and Sets** | Dictionaries, Dictionary Methods, Sets, Set Methods | 4 |
 | 5 | **Loops** | Loops (while, for), Loop Methods, Range | 12 |
-| 6 | **Functions and Recursion**  | Functions, Recursion | 7 |
+| 6 | **Functions and Recursion** | Functions, Recursion | 7 |
 | 7 | **File Input & Output** | File I/O, File Methods | 3 |
-| 8 | **Object Oriented Programming P1**  | Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods | 2 |
-| 9 | **Lecture 9** | Coming Soon | - |
+| 8 | **Object Oriented Programming P1** | Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods : Static Method, OOP Features : Abstruction, Encapsulation | 2 |
+| 9 | **Object Oriented Programming P1** | Delete Keyword, Pivate(like) Attributes & Methods, Methods : Super() Meyhod, Class Method, Property Decorator, OOP Features : Inheritence, Polymorphism | 3 |
+| Total | 9 Lectures | 20 Topics | 45 Pracice Question|
 
 ---
 
