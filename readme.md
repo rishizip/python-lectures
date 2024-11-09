@@ -29,7 +29,7 @@ This collection includes a series of lectures introducing Python programming ess
 | 7 | **File Input & Output** | File I/O, File Methods | 3 |
 | 8 | **Object Oriented Programming P1** | Introduction to Object-Oriented Programming (OOP), Classes and Objects, Constructors, Attributes, Methods : Static Method, OOP Features : Abstruction, Encapsulation | 2 |
 | 9 | **Object Oriented Programming P1** | Delete Keyword, Pivate(like) Attributes & Methods, Methods : Super() Meyhod, Class Method, Property Decorator, OOP Features : Inheritence, Polymorphism | 3 |
-| Total | 9 | 20 | 45 |
+| TOTAL | 9 | 20 | 45 |
 
 ---
 
