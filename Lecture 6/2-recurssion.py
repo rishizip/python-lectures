@@ -1,5 +1,4 @@
 # recurssion in python
-
 # when a function calls itself repidetly
 # def show(n):
 #     if (n == 0): # base case
