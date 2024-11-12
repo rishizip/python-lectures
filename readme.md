@@ -12,7 +12,7 @@
 
 This collection includes a series of lectures introducing Python programming essentials. Each session covers specific topics and includes practice exercises to reinforce learning. To set up Python on your computer, refer to the [official Python documentation](https://docs.python.org/3/) and this [tutorial for VS Code](https://code.visualstudio.com/docs/python/python-tutorial).
 
-![Python Logo](https://github.com/rishizip/animations/blob/ffbda9a4443e4698b175cd145db5c5acc0071b35/python%20-%20rishizip.png)
+![Python Logo](https://github.com/rishizip/python-lectures/blob/16def3fe01c5fc62ad2f2c2c6336c628534dbd60/PYTHON%202.0.png)
 
 ---
 
