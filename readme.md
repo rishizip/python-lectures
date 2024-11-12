@@ -35,7 +35,7 @@ This collection includes a series of lectures introducing Python programming ess
 
 ## 👀 Code Preview
 
-![Code Snippet Preview](https://github.com/rishizip/python-lectures/blob/b69cf6aaa1189615b2723ed16a26a97285ec9891/Untitled%20design.png)
+![Code Snippet Preview](https://github.com/rishizip/animations/blob/ffbda9a4443e4698b175cd145db5c5acc0071b35/python%20-%20rishizip.png)
 
 ---
 
